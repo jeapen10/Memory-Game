@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Ryan",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-06/sub-buzz-10783-1521824296-9.jpg?output-format=auto&output-quality=auto",
+      "clicked": false  
+    },
+    {
+      "id": 2,
+      "name": "Stanley",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-07/sub-buzz-12530-1521824056-1.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Jim",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-05/sub-buzz-9406-1521823009-2.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Angela",
+      "image": "https://i.pinimg.com/originals/af/91/b5/af91b579c0015d6dd776162930d84a55.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Andy",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-09/sub-buzz-3940-1521824342-8.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Phyllis",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-04/sub-buzz-20084-1521824128-9.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Kevin",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-02/sub-buzz-32693-1521824086-9.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Michael",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-09/sub-buzz-3249-1521822936-1.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Darryl",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-03/sub-buzz-31056-1521824392-1.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Pam",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-05/sub-buzz-10161-1521824028-6.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Creed",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-04/sub-buzz-19999-1521824169-5.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Dwight",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-04/sub-buzz-19374-1521822957-8.jpg?output-format=auto&output-quality=auto",
+      "clicked": false  
+    },
+    {
+      "id": 13,
+      "name": "Kelly",
+      "image":"https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-04/sub-buzz-20077-1521824322-7.jpg?output-format=auto&outpu",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "name": "Toby",
+      "image":"https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-08/sub-buzz-19108-1521824361-1.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "name": "Meredith",
+      "image":"https://img.buzzfeed.com/buzzfeed-static/static/2018-03/23/12/asset/buzzfeed-prod-web-09/sub-buzz-4109-1521824151-7.jpg?output-format=auto&output-quality=auto",
+      "clicked": false
+    }
+  ]
