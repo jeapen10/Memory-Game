@@ -71,7 +71,7 @@ class App extends Component {
         <Header>
           <h1>The Office Memory Game</h1>
           <br/>
-            <h4>Try to click on every character without repeating...or we will release the dementors!</h4>
+            <h4>Try to click on all the characters without repeating any.....or we will release the dementors!</h4>
         </Header>
         <h1 className="scoring">
           Score: {this.state.newScore}
